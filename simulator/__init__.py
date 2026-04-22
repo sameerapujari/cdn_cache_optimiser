@@ -1,1 +1,1 @@
-# simulator package
+# simulator/__init__.py
